@@ -5,7 +5,7 @@
       "value": "13-May-2025",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1749902401.141557,
+      "expires": 1749902400.734072,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -25,7 +25,7 @@
       "value": "0.001",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1747158824.142367,
+      "expires": 1747159770.735138,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -35,14 +35,14 @@
       "value": "0.001",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1747158824.200459,
+      "expires": 1747159770.839017,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "enwikimwuser-sessionId",
-      "value": "cae784f237014d984e4e",
+      "value": "f9945d801301afec0550",
       "domain": "auth.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -52,7 +52,7 @@
     },
     {
       "name": "authSession",
-      "value": "u0g4i4ad1md5tmlsn453nnrtpjdt1i3h",
+      "value": "q5t6imc1baubte9rs8hd3kfdoq4qoe9r",
       "domain": "auth.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -65,7 +65,7 @@
       "value": "49673086",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1749747225.898371,
+      "expires": 1749748172.950384,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -75,7 +75,7 @@
       "value": "Renatominghini",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1749747225.898453,
+      "expires": 1749748172.950464,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -85,14 +85,14 @@
       "value": "Renatominghini",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1749747225.898502,
+      "expires": 1749748172.950528,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "centralauth_Session",
-      "value": "2655e2619edb36e61d6e2fc83091fccd",
+      "value": "bf413f7aab7e5913f9a66cb3eee4e31f",
       "domain": "auth.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -102,20 +102,20 @@
     },
     {
       "name": "loginnotify_prevlogins",
-      "value": "2025-2o4qy9-jknf4lpqxlek8k1r2vd702o5654xp49",
+      "value": "2025-phgiv0-kfipbjpqn6ehjbd4m8wf44qhyfes0hd",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1762707225.898578,
+      "expires": 1762708172.950625,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "cpPosIndex",
-      "value": "1%401747155225%23c07c6d98688811558921f4d20344c9a1",
+      "value": "1%401747156172%23c07c6d98688811558921f4d20344c9a1",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1747155235.898625,
+      "expires": 1747156182.950677,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -125,7 +125,7 @@
       "value": "master",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1747155235.898659,
+      "expires": 1747156182.950719,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -141,7 +141,7 @@
         },
         {
           "name": "wmE-sessionTickLastTickTime",
-          "value": "1747155224675"
+          "value": "1747156171586"
         }
       ]
     }

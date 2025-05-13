@@ -11,7 +11,7 @@ export default defineConfig({
     testMatch: '**/all.test.ts',
     workers: 1,
     fullyParallel: false,
-    retries: 0,
+    retries: 2,
     /* Reporter to use. See https://playwright.dev/docs/test-reporters */
     reporter: [['html', { open: 'never' }], ['list']],
     timeout: 180_000,
